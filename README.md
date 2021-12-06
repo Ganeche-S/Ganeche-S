@@ -19,7 +19,7 @@
 - ‍🎓 I'm currently learning at CNAM Paris as a student of the Professional Computer License
 
 
-- 💼 I’m currently looking for an apprenticeship
+- 💼 I work as a Application Developer at Ounono
 
 
 - 📫 How to reach me :
